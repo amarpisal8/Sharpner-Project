@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .section-title {
+    margin-bottom: 20px;
+  }
+  
+  .input-section, .output-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .input-section label, .output-section label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
