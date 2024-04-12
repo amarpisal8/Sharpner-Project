@@ -67,6 +67,7 @@ function submitForm() {
   }
   
   function groupByType(data) {
+    // Group data by type
     var groupedData = {};
     data.forEach(item => {
       if (!groupedData[item.type]) {
